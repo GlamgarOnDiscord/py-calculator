@@ -56,3 +56,6 @@ Les contributions sont les bienvenues ! Si vous avez des idées, des rapports de
 
 ## 📄 Licence
 Ce projet est sous licence MIT - voir le fichier pour plus de détails."# Calculator"  
+"# Calculator"  
+"# Calculator"  
+"# py-calculator"  
